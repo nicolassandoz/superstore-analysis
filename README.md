@@ -48,7 +48,7 @@ Projet en cours — avancement par phases.
 |---|---|---|
 | 1 | Exploration SQL | ✅ Terminé |
 | 2 | Analyse Python | ✅ Terminé |
-| 3 | Dashboard Looker Studio | 🔜 À venir |
+| 3 | Dashboard Looker Studio | ✅ Terminé |
 
 ---
 
